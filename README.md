@@ -43,6 +43,10 @@ from .models import Bank,Loandetails
 # Register your models here.
 admin.site.register(Bank,Loandetails)
 ```
+
+## ER DIAGRAM
+
+![eg pap](https://github.com/user-attachments/assets/d3dd9ea4-16b3-48bc-80d1-75267a023c32)
 ## OUTPUT
 
 Include the screenshot of your admin page.
